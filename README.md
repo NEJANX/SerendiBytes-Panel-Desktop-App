@@ -18,8 +18,9 @@ The Desktop App of SerendiBytes Panel allows SerendiBytes customers to easily pu
 
 ## Download
 
+You can download portable ZIP and RAR files below. We do not provide self-installers for any platform due to security reasons. We apologize for any inconvenience.
+
 ### 1. Windows
-- [SerendiBytes Panel -win32-x64.exe](https://github.com/NEJANX/SerendiBytes-Panel-Desktop-App/releases/download/v1.0.0/SerendiBytes_Panel-win32-x64.exe) (Recomended)
 - [SerendiBytes Panel -win32-x64.zip](https://github.com/NEJANX/SerendiBytes-Panel-Desktop-App/releases/download/v1.0.0/SerendiBytes_Panel-win32-x64.zip)
 
 ### 2. Linux
