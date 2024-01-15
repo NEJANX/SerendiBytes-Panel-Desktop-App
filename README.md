@@ -15,7 +15,6 @@ The Desktop App of SerendiBytes Panel allows SerendiBytes customers to easily pu
     - [1. Windows](#1-windows)
     - [2. Linux](#2-linux)
     - [3. Mac](#3-mac)
-  - [License](#license)
 
 ## Download
 
